@@ -1,0 +1,17 @@
+= Wren:IG
+
+Wren:IG is a community‐developed reverse proxy server providing single sign-on (SSO) to any application behind the proxy.
+
+Wren:IG includes a number of pre-built filters to transform data of intercepred requests / responses.
+Scripted filter allows you to easily create your own filter using the Groovy language.
+
+The features of Wren:IG include:
+
+* Authentication / Authorization using industry-standard protocols (SAML 2.0, OAuth 2.0, OpenID Connect)
+* Single Sign-On (SSO)
+* Single Logout (SLO)
+* Session management
+* Password replay
+
+Wren:IG is one of the projects in the Wren Security Suite, a community initiative that adopted open‐source projects
+formerly developed by ForgeRock.
